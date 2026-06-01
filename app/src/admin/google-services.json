@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "142946690573",
+    "firebase_url": "https://delta-cleaners-a9380-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "delta-cleaners-a9380",
+    "storage_bucket": "delta-cleaners-a9380.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142946690573:android:52bc7de78175c55c9f9744",
+        "android_client_info": {
+          "package_name": "com.delta.cleaners"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZIHBK1b0FXVxb1gcE-fDhTnrIP8Vwjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142946690573:android:e305edbc963afd3e9f9744",
+        "android_client_info": {
+          "package_name": "com.example.deltacleaners"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZIHBK1b0FXVxb1gcE-fDhTnrIP8Vwjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142946690573:android:7decaf1d60dc41e09f9744",
+        "android_client_info": {
+          "package_name": "com.example.deltacleaners.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZIHBK1b0FXVxb1gcE-fDhTnrIP8Vwjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142946690573:android:5c946fc151be96e89f9744",
+        "android_client_info": {
+          "package_name": "com.example.deltacleaners.cleaner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZIHBK1b0FXVxb1gcE-fDhTnrIP8Vwjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142946690573:android:63ad63fc43edbce69f9744",
+        "android_client_info": {
+          "package_name": "com.example.deltacleaners.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZIHBK1b0FXVxb1gcE-fDhTnrIP8Vwjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
